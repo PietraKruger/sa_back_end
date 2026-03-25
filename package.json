@@ -1,4 +1,4 @@
-{
+{"type": "module",
   "scripts": {
     "dev": "node --watch ./src/server.js"
   },
